@@ -1,0 +1,37 @@
+.convert-top-section {
+    background-image: url("conversion.jpeg");
+   background-repeat: no-repeat;
+   width:100%;
+    background-size:cover;
+  }
+  .convert-top-section-heading {
+    color:navy;
+    font-family: "Caveat";
+    font-size: 45px;
+    width: 200px;
+    padding: 20px;
+  }
+  .convert-bottom-section {
+    text-align:center;
+    background-color: #e6f6ff;
+    padding:15px;
+  }
+  .convert-card-item {
+    text-align: center;
+    background-color: white;
+    width:300px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+  }
+  .convert-card-image {
+    height:250px;
+    width: 200px;
+  }
+  .convert-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: normal;
+  }
+  
